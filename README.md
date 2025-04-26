@@ -1,16 +1,25 @@
-## Hi there 👋
+👋 Hi, I'm Hammad Sarfraz
 
-<!--
-**hammad-sarfraz-1/hammad-sarfraz-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Location: Islamabad, Pakistan
+🔗 LinkedIn: linkedin.com/in/hammadsarfraz1
+🧑‍💻 GitHub: github.com/hammad-sarfraz-1
+🚀 About Me
 
-Here are some ideas to get you started:
+I'm a passionate Data Scientist with a strong foundation in machine learning, deep learning, transformers, automation, and MLOps. I thrive on transforming complex data into actionable insights and building scalable systems that drive business decisions.
+🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Programming Languages: Python, SQL
+
+    Machine Learning: Scikit-learn, TensorFlow, Keras, PyTorch
+
+    Large Language Models (LLMs): Langchain
+
+    MLOps: Docker, Jenkins, Kubernetes, CI/CD
+
+    Databases: PostgreSQL, MongoDB, MySQL
+
+My interests lie in data wrangling and analytics, machine learning, deep learning, and automation testing.
+
+📬 Let's Connect
+
+Feel free to reach out to me via LinkedIn or open an issue here on GitHub for collaboration, discussions, or just to say hello!

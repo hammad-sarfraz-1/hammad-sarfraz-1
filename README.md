@@ -19,7 +19,7 @@ I'm a passionate Data Scientist with a strong foundation in machine learning, de
 
     Databases: PostgreSQL, MongoDB, MySQL
 
-My interests lie in data wrangling and analytics, machine learning, deep learning, and automation testing.
+My interests lie in almost everything related to data 😉.
 
 ## 📬 Let's Connect
 

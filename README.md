@@ -1,5 +1,10 @@
-# 💫 About Me:
-# 👋 Hi, I'm Hammad Sarfraz<br><br>### 🔗 LinkedIn: linkedin.com/in/hammadsarfraz1<br><br>### 🧑‍💻 GitHub: github.com/hammad-sarfraz-1<br><br>## 🚀 About Me<br><br>I'm a passionate Data Scientist with a strong foundation in machine learning, deep learning, transformers, automation, and MLOps. I thrive on transforming complex data into actionable insights and building scalable systems that drive business decisions.<br>🔧 Technologies & Tools<br><br>    Programming Languages: Python, SQL, C++<br><br>    Machine Learning: Scikit-learn, TensorFlow, Keras, PyTorch<br><br>    Large Language Models (LLMs): Langchain<br><br>    MLOps: Docker, Jenkins, Kubernetes, CI/CD<br><br>    Databases: PostgreSQL, MongoDB, MySQL<br><br>My interests lie in almost everything related to data 😉.<br><br>## 📬 Let's Connect<br><br>Feel free to reach out to me via LinkedIn or open an issue here on GitHub for collaboration, discussions, or just to say hello!<br>
+# 👋 Hi, I'm Hammad Sarfraz
+##### 🔗 LinkedIn: linkedin.com/in/hammadsarfraz1
+##### 🧑‍💻 GitHub: github.com/hammad-sarfraz-1
+## About Me
+I am a passionate Data Scientist with a strong foundation in machine learning, deep learning, transformers, automation, and MLOps, coupled with a practical, execution-driven mindset. I specialize in turning complex, messy data into actionable insights and designing scalable, production-ready systems that directly support data-informed business decisions.
+
+I enjoy working across the full data lifecycle — from exploration and modeling to deployment and automation — ensuring solutions are not just accurate, but reliable, maintainable, and future-proof.
 
 
 ## 🌐 Socials:
@@ -16,9 +21,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=hammad-sarfraz-1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=background)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hammad-sarfraz-1&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

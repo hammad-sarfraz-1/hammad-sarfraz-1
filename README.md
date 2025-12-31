@@ -2,9 +2,9 @@
 ##### 🔗 LinkedIn: linkedin.com/in/hammadsarfraz1
 ##### 🧑‍💻 GitHub: github.com/hammad-sarfraz-1
 ## About Me
-I am a passionate Data Scientist with a strong foundation in machine learning, deep learning, transformers, automation, and MLOps, coupled with a practical, execution-driven mindset. I specialize in turning complex, messy data into actionable insights and designing scalable, production-ready systems that directly support data-informed business decisions.
+I am a passionate Engineer with a strong foundation in backend development, AI/ML, deep learning, transformers, and building data engineering pipelines, coupled with a practical, execution-driven mindset. I specialize in turning complex, messy data into actionable insights and designing scalable, production-ready systems that directly support data-informed business decisions.
 
-I enjoy working across the full data lifecycle — from exploration and modeling to deployment and automation — ensuring solutions are not just accurate, but reliable, maintainable, and future-proof.
+I enjoy working across the full data lifecycle - from exploration and modeling to deployment and automation - ensuring solutions are not just accurate, but reliable, maintainable, and future-proof.
 
 
 ## 🌐 Socials:

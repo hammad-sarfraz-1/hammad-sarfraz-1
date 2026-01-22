@@ -1,6 +1,3 @@
-# 👋 Hi, I'm Hammad Sarfraz
-##### 🔗 LinkedIn: linkedin.com/in/hammadsarfraz1
-##### 🧑‍💻 GitHub: github.com/hammad-sarfraz-1
 ## About Me
 I am a passionate Engineer with a strong foundation in backend development, AI/ML, deep learning, transformers, and building data engineering pipelines, coupled with a practical, execution-driven mindset. I specialize in turning complex, messy data into actionable insights and designing scalable, production-ready systems that directly support data-informed business decisions.
 

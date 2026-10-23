@@ -1,14 +1,13 @@
 ## About Me
-I'm an engineer working on applied AI, data and backend systems. I build LLM-powered tools end to end: agents that answer business questions over a data warehouse, Model Context Protocol (MCP) servers, retrieval-augmented generation (RAG), and evaluation pipelines that measure whether the answers are actually right.
+I'm an engineer working on applied AI, backend and business systems. I build LLM-powered tools end to end: AI agent skills that teams install and run day to day, Model Context Protocol (MCP) integrations, and retrieval-augmented generation (RAG) with evaluation that checks whether the answers are actually right.
 
-My foundation is in backend development and data engineering. That covers APIs, warehouse pipelines, ERP automation, and the internal dashboards teams run on every day. I care about systems that are measurable, reliable and maintainable, not just demos.
+My foundation is in backend development and data engineering. Lately that means ERP and payroll automation, integrations between internal systems, and the telemetry that keeps tooling healthy across many machines. I care about systems that are measurable, reliable and maintainable, not just demos.
 
 **Currently focused on:**
-- Governed natural-language analytics: LLM answers over a warehouse, backed by rules, evals and an audit trail
-- Agent skills and tooling for teams, with install health and usage telemetry
-- Data pipelines into BigQuery: incremental loads, self-healing reloads, snapshot safety
-- ERP and payroll automation on Odoo: tax, contracts and HR system sync
-- Internal dashboards and reporting automation in TypeScript and Next.js
+- ERP and payroll automation on Odoo: tax withholding, contracts, payroll months and version upgrades
+- HR system integration: syncing employee records into the ERP, with retries and a nightly full sync
+- AI agent skills for teams: cross-platform installer, self-repairing sync, install health telemetry
+- Secure, local-first app development: sign-in throttling, rate limiting, streamed data export
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hammad.py) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hammadsarfraz1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hammadsarfraz012@gmail.com) 
@@ -20,7 +19,7 @@ My foundation is in backend development and data engineering. That covers APIs, 
 
 **Backend**
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
 
 **Data**
 
